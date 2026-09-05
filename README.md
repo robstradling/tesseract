@@ -245,6 +245,11 @@ wrote to ease deployment.
 [TrustAsia](https://www.trustasia.com/) runs [production CT logs](https://issues.chromium.org/issues/40917853#comment26)
 using the [POSIX implementation](/cmd/tesseract/posix/).
 
+### Sectigo
+
+[Sectigo](https://www.sectigo.com) runs [production CT logs](https://issues.chromium.org/issues/399124609#comment26)
+using the [POSIX implementation](/cmd/tesseract/posix/).
+
 ## :card_index_dividers: Repository structure
 
 This repository contains:
